@@ -1,4 +1,3 @@
-//hello ， iam cheng ,thanks for you view.
 //have a good day !
 #include <stdio.h>
 int a;
